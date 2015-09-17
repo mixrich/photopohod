@@ -95,18 +95,18 @@ p {...}
 2. Отступы между блоками в px - это нормально.  
    Отступы в тексте лучше делать через **em** или **rem**
 
-+## 4 Clearfix
-+
-+...делается [вот так](https://css-tricks.com/snippets/css/clear-fix/):
-+
-+```css
-+.clearfix::after {
-+  content: "";
-+  display: table;
-+  clear: both;
-+}
-+```
-+
+## 4 Clearfix
+
+...делается [вот так](https://css-tricks.com/snippets/css/clear-fix/):
+
+```css
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+```
+
 +## 5 " Особенные элементы"
 Наша команда, по историческим и рациональным причинам, выделяет 2 "особых категории" классов в верстке.
 
