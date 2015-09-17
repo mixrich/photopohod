@@ -97,7 +97,7 @@ p {...}
 
 ## 4 Clearfix
 
-...Делается вот так
+...делается [вот так](https://css-tricks.com/snippets/css/clear-fix/):
 
 ```css
 .clearfix::after {
