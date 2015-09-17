@@ -1,0 +1,41 @@
+.header {
+	height: 300px;
+	background-image: url("../../images/header.jpg");
+	background-size: 100% auto;
+	position: relative;
+}
+
+.header__main-title {
+	margin-top: 0;
+}
+
+.header__feedback-container {
+	float: right;
+	width: 300px;
+	background-color: white;
+}
+
+.navigation_container {
+	background-color: rgba(0, 0, 0, 0.5);
+	position: absolute; 
+	bottom: 0;
+	width: 100%;
+}
+
+.header__navigation__container {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.header__navigation__container__item {
+	float: left;
+	width: 25%;
+	padding: 10px 10px;
+	box-sizing: border-box;
+	color: white;
+}
+
+.header__navigation__container__item:hover {
+	background-color: rgba(0,1,0,0.5);
+}
