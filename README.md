@@ -4,7 +4,7 @@
 
 Итак, поехали (дописывайте свои идеи и всё такое).
 
-[Как здесь писать?](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+*[Как здесь писать?](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)*
 
 ## 1 Верстка "классами" 
  
