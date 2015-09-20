@@ -1,5 +1,23 @@
 .footer {
-	height: 100px;
+	height: 70px;
 	background-image: url("../../images/footer.jpg");
 	background-size: cover;
+	padding: 15px 0;
+	color: #5D5D5D;
+}
+
+.footer__about {
+	float: left;
+	width: 35%;
+}
+
+.footer__social {
+	float: left;
+	width: 33%;
+}
+
+.footer__design {
+	float: left;
+	width: 31%;
+	text-align: right;
 }
