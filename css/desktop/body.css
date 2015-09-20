@@ -5,6 +5,6 @@ body {
 .flexible-container {
 	min-width: 1000px;
 	max-width: 1400px;
-	width: 90%;
+	width: 95%;
 	margin: 0 auto;
 }
