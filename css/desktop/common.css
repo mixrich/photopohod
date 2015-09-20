@@ -1,4 +1,16 @@
+/* common styles for all site */
+@import 'body.css';
+
+/* header styles */
 @import 'header.css';
 @import 'navigation.css';
 @import 'top-ticket.css';
-@import 'body.css';
+
+/* main page tours section */
+@import 'main-tours.css';
+
+
+
+/* footer */
+@import 'footer.css';
+

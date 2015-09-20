@@ -1,7 +1,7 @@
 .navigation_container {
-	background-color: rgba(0, 0, 0, 0.5);
+	background-color: rgba(0, 0, 0, 0.7);
 	position: absolute; 
-	bottom: 0;
+	bottom: -5px;
 	width: 100%;
 }
 
@@ -9,16 +9,19 @@
 	margin: 0;
 	padding: 0;
 	list-style-type: none;
+	font-family: 'Roboto-Light';
+	font-size: 0.9rem;
+	font-weight: 600;
 }
 
-.header__navigation__container__item {
+.header__navigation__item {
 	float: left;
-	width: 25%;
 	padding: 15px 10px;
 	box-sizing: border-box;
 	color: white;
 }
 
-.header__navigation__container__item:hover {
-	background-color: rgba(0,1,0,0.5);
+.header__navigation__item:hover {
+	background-color: rgba(19,70,78, 0.6);
+	cursor: pointer;
 }

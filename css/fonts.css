@@ -10,3 +10,7 @@
 	font-family: 'Roboto-Bold';
 	src: local(Roboto-Bold), url(../fonts/Roboto-Bold.ttf);
 }
+
+body {
+	font-family: 'Roboto-Light';
+}
